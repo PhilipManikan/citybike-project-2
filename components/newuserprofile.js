@@ -3,7 +3,6 @@ import { StyleSheet, Text, View, FlatList, Image, TouchableOpacity } from 'react
 
 const img = require('../images/logo.png');
 
-
 export default class NewUserProfile extends React.Component {
 
     render() {

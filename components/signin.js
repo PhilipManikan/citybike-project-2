@@ -1,7 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View, TouchableOpacity, TextInput, KeyboardAvoidingView, Image, FlatList } from 'react-native';
 
-
 const img = require('../images/logo.png');
 
 export default class SignIn extends React.Component {
