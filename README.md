@@ -17,7 +17,7 @@ City bike is a mobile appication where users can search for the nearest bike ren
 <p align="center">
 <img src="https://image.ibb.co/hkfquJ/70_C270_E2_86_E5_479_F_B1_E9_1_FF257_C0465_C.png" alt="70_C270_E2_86_E5_479_F_B1_E9_1_FF257_C0465_C" border="1" width="400">
 
-<img src="https://image.ibb.co/mJtM1y/133213_B4_A36_C_40_DA_9141_A02_E4_AF00059.png" alt="133213_B4_A36_C_40_DA_9141_A02_E4_AF00059" border="0">
+<img src="https://image.ibb.co/mJtM1y/133213_B4_A36_C_40_DA_9141_A02_E4_AF00059.png" alt="133213_B4_A36_C_40_DA_9141_A02_E4_AF00059" border="1" width="400">
 
 <img src="https://image.ibb.co/i7JAuJ/47563059_FCCA_4_E7_D_8_F9_D_319285_FDED52.png" alt="47563059_FCCA_4_E7_D_8_F9_D_319285_FDED52" border="1" width="400">
 
